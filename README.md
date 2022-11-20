@@ -12,20 +12,20 @@ After installation, you can run `go run .` in the project directory to generates
 - Asset folder contains icon thumbnails for dolls and alorithms.
     - Use PNG format.
 
-- Data directory contains yaml data files to all relevant data for Neural Cloud. Stucture as follows:
+- Data directory contains YAML data files to all relevant data for Neural Cloud. Stucture as follows:
 
 ### Doll file format:
 #### Required
 ```
 name: string
 bio:
-    model: string
-    class: string
     rarity: byte
-    birthday: string
-    release: date (ISO8601)
+    class: string
+    model: string
     manufacturer: string
     career: string
+    birthday: string
+    release: date (ISO8601)
     voice: string
 skills:
     passive:
