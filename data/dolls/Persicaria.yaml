@@ -1,10 +1,13 @@
-model: Persicaria
 name: Persicaria
-class: Medic
-birthday: Unknown
-manufacturer: 42Lab
-career: AI Researcher
-voice: Karin Nanami
+bio:
+    rarity: 2
+    class: Medic
+    model: Persicaria
+    manufacturer: 42Lab
+    career: AI Researcher
+    birthday: Unknown
+    release: 2022-11-21T08:00:00Z
+    voice: Karin Nanami
 skills:
     passive:
         name: Game of Life

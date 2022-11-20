@@ -1,10 +1,13 @@
-model: MDJ
 name: Groove
-class: Specialist
-birthday: --
-manufacturer: Cyber Media
-career: DJ
-voice: Honoka Kuroki
+bio:
+    rarity: 1
+    class: Specialist
+    model: MDJ
+    manufacturer: Cyber Media
+    career: DJ
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Honoka Kuroki
 skills:
     passive:
         name: Carnival Preparations

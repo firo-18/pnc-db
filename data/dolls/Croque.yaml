@@ -1,10 +1,13 @@
-model: ME78
 name: Croque
-class: Guard
-birthday: 10-Jul
-manufacturer: Svarog Heavy Industries
-career: Mechanical Design Engineer
-voice: Yui Ogura
+bio:
+    rarity: 3
+    class: Guard
+    model: ME78
+    manufacturer: Svarog Heavy Industries
+    career: Mechanical Design Engineer
+    birthday: 10-Jul
+    release: 2022-11-21T08:00:00Z
+    voice: Yui Ogura
 skills:
     passive:
         name: Unyielding Will

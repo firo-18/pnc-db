@@ -1,10 +1,13 @@
-model: CaregiverT55
 name: Dushevnaya
-class: Specialist
-birthday: --
-manufacturer: Universal Anything Services
-career: Child Caregiver
-voice: Eri Ozeki
+bio:
+    rarity: 2
+    class: Specialist
+    model: CaregiverT55
+    manufacturer: Universal Anything Services
+    career: Child Caregiver
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Eri Ozeki
 skills:
     passive:
         name: Innocuous Melody

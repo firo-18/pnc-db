@@ -1,10 +1,13 @@
-model: UL-AP
 name: Panakeia
-class: Medic
-birthday: --
-manufacturer: Ultimate Life Holdings
-career: Pharmacist
-voice: Kotomi Aihara
+bio:
+    rarity: 2
+    class: Medic
+    model: UL-AP
+    manufacturer: Ultimate Life Holdings
+    career: Pharmacist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Kotomi Aihara
 skills:
     passive:
         name: Volatile Dosage

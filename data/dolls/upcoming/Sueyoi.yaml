@@ -1,10 +1,13 @@
-model: ""
 name: Sueyoi
-class: ""
-birthday: ""
-manufacturer: ""
-career: ""
-voice: ""
+bio:
+    model: ""
+    class: ""
+    rarity: 0
+    birthday: ""
+    release: 0001-01-01T00:00:00Z
+    manufacturer: ""
+    career: ""
+    voice: ""
 skills:
     passive:
         name: ""

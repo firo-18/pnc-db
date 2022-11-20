@@ -1,10 +1,13 @@
-model: AS-B
 name: Gin
-class: Medic
-birthday: --
-manufacturer: Universal Anything Services
-career: Bartender
-voice: Wataru Katou
+bio:
+    rarity: 3
+    class: Medic
+    model: AS-B
+    manufacturer: Universal Anything Services
+    career: Bartender
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Wataru Katou
 skills:
     passive:
         name: Cloudtop Mix

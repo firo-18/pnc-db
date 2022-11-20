@@ -1,0 +1,20 @@
+name: Willow
+bio:
+    rarity: 3
+    class: Specialist
+    model: CM-JRNLIST
+    manufacturer: Cyber Media
+    career: Journalist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Eri Kitamura
+skills:
+    passive:
+        name: ""
+        desc: ""
+    auto:
+        name: ""
+        desc: ""
+    ultimate:
+        name: ""
+        desc: ""

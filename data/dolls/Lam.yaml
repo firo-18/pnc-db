@@ -1,10 +1,13 @@
-model: RM&IA
 name: Lam
-class: Sniper
-birthday: --
-manufacturer: Universal Anything Services
-career: Accountant
-voice: Hiyori Nitta
+bio:
+    rarity: 1
+    class: Sniper
+    model: RM&IA
+    manufacturer: Universal Anything Services
+    career: Accountant
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Hiyori Nitta
 skills:
     passive:
         name: Fuller's Slide Rule

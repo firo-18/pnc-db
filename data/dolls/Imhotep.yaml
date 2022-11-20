@@ -1,10 +1,13 @@
-model: UL-VET
 name: Imhotep
-class: Medic
-birthday: --
-manufacturer: Ultimate Life Holdings
-career: Veterinarian
-voice: Aimi
+bio:
+    rarity: 2
+    class: Medic
+    model: UL-VET
+    manufacturer: Ultimate Life Holdings
+    career: Veterinarian
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Aimi
 skills:
     passive:
         name: Beak of Horus

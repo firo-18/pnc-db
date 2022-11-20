@@ -1,10 +1,13 @@
-model: LG-II
 name: Sakuya
-class: Specialist
-birthday: --
-manufacturer: Universal Anything Services
-career: Horticulturist
-voice: Yu Serizawa
+bio:
+    rarity: 2
+    class: Specialist
+    model: LG-II
+    manufacturer: Universal Anything Services
+    career: Horticulturist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Yu Serizawa
 skills:
     passive:
         name: Wilting Flowers

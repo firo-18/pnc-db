@@ -1,12 +1,12 @@
 name: Abigail
 bio:
-    model: MCDT
-    class: Specialist
     rarity: 1
-    birthday: --
-    release: 2022-11-21T08:00:00Z
+    class: Specialist
+    model: MCDT
     manufacturer: Svarog Heavy Industries
     career: Service Dog Trainer
+    birthday: --
+    release: 2022-11-21T08:00:00Z
     voice: Ruriko Aoki
 skills:
     passive:
@@ -23,4 +23,6 @@ skills:
             [Agitation]: Crit Rate increased by (30%), Crit Damage increased by (30%).
     ultimate:
         name: Mark of the Hunt
-        desc: Tosses a bone towards an enemy, marking them for 6 second(s). When ally units deal non-Derivative Critical Damage to that enemy, Abigail's Hound lunges towards the target, dealing additional Derivative Operand Damage equivalent to 300%? of Abigail's Hashrate.
+        desc: >
+            Tosses a bone towards an enemy, marking them for 6 second(s).
+            When ally units deal non-Derivative Critical Damage to that enemy, Abigail's Hound lunges towards the target, dealing additional Derivative Operand Damage equivalent to 300%? of Abigail's Hashrate.

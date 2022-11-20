@@ -1,10 +1,13 @@
-model: Forensic3.6
 name: Rise
-class: Specialist
-birthday: --
-manufacturer: Ultimate Life Holdings
-career: Forensic Assistant
-voice: Yukana
+bio:
+    rarity: 2
+    class: Specialist
+    model: Forensic3.6
+    manufacturer: Ultimate Life Holdings
+    career: Forensic Assistant
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Yukana
 skills:
     passive:
         name: Outsider's Conford

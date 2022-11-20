@@ -1,10 +1,13 @@
-model: EG4.0
 name: Sol
-class: Warrior
-birthday: --
-manufacturer: 42Lab
-career: Research Team Guide
-voice: Ryoka Yuzuki
+bio:
+    rarity: 2
+    class: Warrior
+    model: EG4.0
+    manufacturer: 42Lab
+    career: Research Team Guide
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Ryoka Yuzuki
 skills:
     passive:
         name: Bladed Parry

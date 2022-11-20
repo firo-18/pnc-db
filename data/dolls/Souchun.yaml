@@ -1,10 +1,13 @@
-model: Botanist_10Pro
 name: Souchun
-class: Guard
-birthday: --
-manufacturer: 42Lab
-career: Botanical Researcher
-voice: Saya Horigome
+bio:
+    rarity: 2
+    class: Guard
+    model: Botanist_10Pro
+    manufacturer: 42Lab
+    career: Botanical Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Saya Horigome
 skills:
     passive:
         name: Mending of the Verdant

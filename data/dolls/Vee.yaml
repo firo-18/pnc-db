@@ -1,10 +1,13 @@
-model: UL-CS5
 name: Vee
-class: Warrior
-birthday: --
-manufacturer: Ultimate Life Holdings
-career: Cosmetic Surgeon
-voice: Eri Kitamura
+bio:
+    rarity: 3
+    class: Warrior
+    model: UL-CS5
+    manufacturer: Ultimate Life Holdings
+    career: Cosmetic Surgeon
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Eri Kitamura
 skills:
     passive:
         name: Souleating Mask

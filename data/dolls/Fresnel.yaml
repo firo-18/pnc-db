@@ -1,10 +1,13 @@
-model: OSRA
 name: Fresnel
-class: Sniper
-birthday: --
-manufacturer: 42Lab
-career: Optics Researcher
-voice: Risa Tsumugi
+bio:
+    rarity: 2
+    class: Sniper
+    model: OSRA
+    manufacturer: 42Lab
+    career: Optics Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Risa Tsumugi
 skills:
     passive:
         name: Mirror Warp

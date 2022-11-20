@@ -1,10 +1,13 @@
-model: UL-NURSE
 name: Florence
-class: Medic
-birthday: --
-manufacturer: Ultimate Life Holdings
-career: Nurse
-voice: M.A.O
+bio:
+    rarity: 3
+    class: Medic
+    model: UL-NURSE
+    manufacturer: Ultimate Life Holdings
+    career: Nurse
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: M.A.O
 skills:
     passive:
         name: Angelic Allure

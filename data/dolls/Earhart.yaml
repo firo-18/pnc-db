@@ -1,10 +1,13 @@
-model: E-Pilot
 name: Earhart
-class: Sniper
-birthday: --
-manufacturer: Svarog Heavy Industries
-career: Pilot
-voice: Rina Sato
+bio:
+    rarity: 2
+    class: Sniper
+    model: E-Pilot
+    manufacturer: Svarog Heavy Industries
+    career: Pilot
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Rina Sato
 skills:
     passive:
         name: Avenger's Roar

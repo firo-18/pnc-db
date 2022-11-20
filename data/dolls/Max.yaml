@@ -1,10 +1,13 @@
-model: EMR
 name: Max
-class: Sniper
-birthday: --
-manufacturer: 42Lab
-career: Electromagnetism Researcher
-voice: Hiyori Nitta
+bio:
+    rarity: 1
+    class: Sniper
+    model: EMR
+    manufacturer: 42Lab
+    career: Electromagnetism Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Hiyori Nitta
 skills:
     passive:
         name: Magnetized Strike

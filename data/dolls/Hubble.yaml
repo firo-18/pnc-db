@@ -1,10 +1,13 @@
-model: PSRA
 name: Hubble
-class: Sniper
-birthday: --
-manufacturer: 42Lab
-career: Astronomy Researcher
-voice: Rina Hidaka
+bio:
+    rarity: 3
+    class: Sniper
+    model: PSRA
+    manufacturer: 42Lab
+    career: Astronomy Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Rina Hidaka
 skills:
     passive:
         name: Empyrean Alignment

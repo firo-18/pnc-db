@@ -1,10 +1,13 @@
-model: CM-EM
 name: Chanzhi
-class: Sniper
-birthday: --
-manufacturer: Cyber Media
-career: Embroidery Artist
-voice: Mariya Ise
+bio:
+    rarity: 3
+    class: Sniper
+    model: CM-EM
+    manufacturer: Cyber Media
+    career: Embroidery Artist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Mariya Ise
 skills:
     passive:
         name: Floral Adornment

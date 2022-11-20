@@ -1,12 +1,12 @@
 name: Angela
 bio:
-    model: C2E2
-    class: Specialist
     rarity: 2
-    birthday: --
-    release: 2022-11-21T08:00:00Z
+    class: Specialist
+    model: C2E2
     manufacturer: Universal Anything Services
     career: Child Custodian
+    birthday: --
+    release: 2022-11-21T08:00:00Z
     voice: Saki Minami
 skills:
     passive:

@@ -1,10 +1,13 @@
-model: Waitress3.0
 name: Ksenia
-class: Specialist
-birthday: --
-manufacturer: Universal Anything Services
-career: Waitress
-voice: Eri Kitamura
+bio:
+    rarity: 2
+    class: Specialist
+    model: Waitress3.0
+    manufacturer: Universal Anything Services
+    career: Waitress
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Eri Kitamura
 skills:
     passive:
         name: Exclusive Service

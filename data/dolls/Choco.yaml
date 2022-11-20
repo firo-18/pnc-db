@@ -1,10 +1,13 @@
-model: PastryChefSP.
 name: Choco
-class: Medic
-birthday: --
-manufacturer: Universal Anything Services
-career: Dessert Chef
-voice: Sumire Yatsurugi
+bio:
+    rarity: 1
+    class: Medic
+    model: PastryChefSP.
+    manufacturer: Universal Anything Services
+    career: Dessert Chef
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Sumire Yatsurugi
 skills:
     passive:
         name: Choco Energy

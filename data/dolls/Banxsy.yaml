@@ -1,12 +1,12 @@
 name: Banxsy
 bio:
-    model: ARTIST3.0
-    class: Specialist
     rarity: 3
-    birthday: --
-    release: 2022-11-21T08:00:00Z
+    class: Specialist
+    model: ARTIST3.0
     manufacturer: Cyber Media
     career: Street Artist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
     voice: Juri Nagatsuma
 skills:
     passive:

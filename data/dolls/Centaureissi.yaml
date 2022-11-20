@@ -1,10 +1,13 @@
-model: Butler36
 name: Centaureissi
-class: Warrior
-birthday: --
-manufacturer: Universal Anything Services
-career: Maid
-voice: Ami Koshimizu
+bio:
+    rarity: 3
+    class: Warrior
+    model: Butler36
+    manufacturer: Universal Anything Services
+    career: Maid
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Ami Koshimizu
 skills:
     passive:
         name: Maid's Discipline (CD 8s)

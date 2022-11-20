@@ -1,10 +1,13 @@
-model: MAIA
 name: Mai
-class: Specialist
-birthday: --
-manufacturer: 42Lab
-career: Meteorological Researcher
-voice: Saki Minami
+bio:
+    rarity: 1
+    class: Specialist
+    model: MAIA
+    manufacturer: 42Lab
+    career: Meteorological Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Saki Minami
 skills:
     passive:
         name: Raging Turbulence

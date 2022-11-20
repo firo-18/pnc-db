@@ -1,10 +1,13 @@
-model: Gaul
 name: Simo
-class: Sniper
-birthday: --
-manufacturer: Svarog Heavy Industries
-career: Sniper
-voice: Junya Enoki
+bio:
+    rarity: 1
+    class: Sniper
+    model: Gaul
+    manufacturer: Svarog Heavy Industries
+    career: Sniper
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Junya Enoki
 skills:
     passive:
         name: Shadow Walker

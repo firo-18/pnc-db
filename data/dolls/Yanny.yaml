@@ -1,10 +1,13 @@
-model: MarinerII
 name: Yanny
-class: Guard
-birthday: --
-manufacturer: 42Lab
-career: Sailor
-voice: Yuki Inoue
+bio:
+    rarity: 1
+    class: Guard
+    model: MarinerII
+    manufacturer: 42Lab
+    career: Sailor
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Yuki Inoue
 skills:
     passive:
         name: Vicious Waves

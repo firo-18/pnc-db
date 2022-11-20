@@ -1,10 +1,13 @@
-model: AA2
 name: Fern
-class: Warrior
-birthday: --
-manufacturer: 42Lab
-career: Archaeology Researcher
-voice: Naomi Ohzora
+bio:
+    rarity: 2
+    class: Warrior
+    model: AA2
+    manufacturer: 42Lab
+    career: Archaeology Researcher
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Naomi Ohzora
 skills:
     passive:
         name: Dragonbone Awakening

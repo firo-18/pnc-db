@@ -1,10 +1,13 @@
-model: DMLT
 name: Octogen
-class: Sniper
-birthday: --
-manufacturer: Svarog Heavy Industries
-career: Explosives Engineer
-voice: Junko Takeuchi
+bio:
+    rarity: 2
+    class: Sniper
+    model: DMLT
+    manufacturer: Svarog Heavy Industries
+    career: Explosives Engineer
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Junko Takeuchi
 skills:
     passive:
         name: Sulfuric Prelude

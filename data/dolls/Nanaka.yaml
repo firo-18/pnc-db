@@ -1,10 +1,13 @@
-model: CM-Idol
 name: Nanaka
-class: Medic
-birthday: --
-manufacturer: Cyber Media
-career: Idol
-voice: Yuko Ono
+bio:
+    rarity: 3
+    class: Medic
+    model: CM-Idol
+    manufacturer: Cyber Media
+    career: Idol
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Yuko Ono
 skills:
     passive:
         name: Stardust - Rhythmic Chroma

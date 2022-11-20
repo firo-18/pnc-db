@@ -1,10 +1,13 @@
-model: PHK
 name: Jessie
-class: Medic
-birthday: --
-manufacturer: Universal Anything Services
-career: Domestic Service Specialist
-voice: Makoto Koichi
+bio:
+    rarity: 1
+    class: Medic
+    model: PHK
+    manufacturer: Universal Anything Services
+    career: Domestic Service Specialist
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    voice: Makoto Koichi
 skills:
     passive:
         name: Cleaning Service
