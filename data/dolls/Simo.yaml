@@ -1,0 +1,17 @@
+model: Gaul
+name: Simo
+class: Sniper
+birthday: --
+manufacturer: Svarog Heavy Industries
+career: Sniper
+voice: Junya Enoki
+skills:
+    passive:
+        name: Shadow Walker
+        desc: After every 5 Normal Attacks, Simo enters Stealth for 2 seconds, and dashes 1 tile away. When this Skill is activated, the next Normal Attack is guaranteed to be a Critical Hit.
+    auto:
+        name: Crossbow Sequence (CD 8s) (Pre 3s)
+        desc: Simo fires 6 arrows at enemy units, each arrow dealing Physical Damage equal to 80% ATK that can deal critical damage.
+    ultimate:
+        name: Wintery Stillness
+        desc: Simo grants all ally units Stealth for 3 seconds and heals them for 7% of their Max HP per second.

@@ -1,0 +1,19 @@
+model: DMLT
+name: Octogen
+class: Sniper
+birthday: --
+manufacturer: Svarog Heavy Industries
+career: Explosives Engineer
+voice: Junko Takeuchi
+skills:
+    passive:
+        name: Sulfuric Prelude
+        desc: For every 3 Normal Attacks performed, the next one becomes enhanced and deals additional Operand Damage equal to 60% Hashrate to the selected target and other enemies in a cross-shaped area.
+    auto:
+        name: Demolitions Pageant (CD 12s) (Pre 5s)
+        desc: >
+            Randomly drops 5 bombs on the immediate surrounding tiles around the target (or to random locations when there is no open space nearby).
+            The bombs explode on contact with an enemy unit, dealing Operand Damage equal to 300% Hashrate to all enemy units within 1 tile. If the bomb is not set Off, it will detonate after 5 seconds, dealing Operand Damage equal to 150% Hashrate.
+    ultimate:
+        name: Curtain Call
+        desc: Deals Operand Damage equal to 1500% Hashrate to all enemies within the selected tile, at the cost of 100% of Octogen's current HP. Octogen is seen as a unit on the field before he disengages.

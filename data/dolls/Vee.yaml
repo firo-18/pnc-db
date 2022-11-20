@@ -1,0 +1,23 @@
+model: UL-CS5
+name: Vee
+class: Warrior
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Cosmetic Surgeon
+voice: Eri Kitamura
+skills:
+    passive:
+        name: Souleating Mask
+        desc: >
+            Vee damages her target through the mask. Her Normal Attacks ignore distance and deal 60% additional damage. This damage cannot be dodged, cannot crit, and bypasses damage absorption shields.
+            When Vee deals damage, she Absorbs 10% of the target's ATK, up to 50% of Vee's own ATK.
+    auto:
+        name: Agony's Aesthetics (CD 12s) (Pre 6s)
+        desc: |
+            Affixes [Mask of Suffering] on the current target, lasting for 6 seconds.
+            [Mask of Suffering]: Reduces Operand DEF by 15%, deals Operand Damage equal to 100% Hashrate per second.
+    ultimate:
+        name: Freaky Mask Show
+        desc: >
+            Creates a [Mask Domain] that lasts 5 seconds in the designated location. Enemies within the area take Operand Damage equal to 400% Hashrate.
+            Afterwards, additional Operand Damage equal to 10% HP is dealt per second, up to 150% of Vee's Hashrate. This Skill can deal critical damage.

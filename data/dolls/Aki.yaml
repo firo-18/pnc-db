@@ -1,0 +1,20 @@
+name: Aki
+bio:
+    model: BodyguardSP.
+    class: Warrior
+    rarity: 3
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    manufacturer: Universal Anything Services
+    career: Personal Bodyguard
+    voice: Takuya Eguchi
+skills:
+    passive:
+        name: Scarlet Moon
+        desc: Crit Damage is increased by 20%. For every Normal Attack that does not crit, Crit Damage is increased by (30%). This effect expires when a Normal Attack deals a Critical Hit.
+    auto:
+        name: Murasame (CD 9s) (Pre 4.4s)
+        desc: Rapidly slashes the current target 5 times, each slash dealing Physical Damage equal to (100%) ATK that can deal critical damage.
+    ultimate:
+        name: Chidori Gaeshi
+        desc: Deals Physical Damage equal to (1000%) ATK to a selected target. If the selected target is defeated, immediately activate this Skill again on the enemy with the lowest HP percentage. For every 1% HP the target has lost, this Skill deals 0.4% more damage.

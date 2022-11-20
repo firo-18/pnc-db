@@ -1,0 +1,6 @@
+github.com/firo-18/pnc-bot v0.0.0-20221116122250-c8efb0454990 h1:MmNftMrQt2xuK3H1mFM/cFqK4dbiQa+ukHLJVIVmdEQ=
+github.com/firo-18/pnc-bot v0.0.0-20221116122250-c8efb0454990/go.mod h1:PknTv5tVAK+nOxahLng7sgspj66V5DX6wX5/G3tSAvg=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
+gopkg.in/yaml.v3 v3.0.1/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=

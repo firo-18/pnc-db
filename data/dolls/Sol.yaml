@@ -1,0 +1,18 @@
+model: EG4.0
+name: Sol
+class: Warrior
+birthday: --
+manufacturer: 42Lab
+career: Research Team Guide
+voice: Ryoka Yuzuki
+skills:
+    passive:
+        name: Bladed Parry
+        desc: Sol has a 80% chance to parry ranged damage, reducing damage taken by (40%).
+    auto:
+        name: Swiftflame Slash (CD 6s) (Pre 2s)
+        desc: |
+            Sol deals 2 consecutive strikes of Operand Damage equal to (150%) Hashrate and applies 2 stacks of [Burn] to the target.
+    ultimate:
+        name: Blazing Blade of Leo
+        desc: Sol swings her blade in a selected fan-shaped area, dealing Operand Damage equal to (400%) of Hashrate to all enemies within its range. Each stack of [Burn] will make this attack deal additional True Damage, equal to 100% Hashrate.

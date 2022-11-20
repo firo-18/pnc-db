@@ -1,0 +1,19 @@
+model: MDJ
+name: Groove
+class: Specialist
+birthday: --
+manufacturer: Cyber Media
+career: DJ
+voice: Honoka Kuroki
+skills:
+    passive:
+        name: Carnival Preparations
+        desc: Groove's Auto Skill recharge is sped up by 2 seconds when an ally unit successfully dodges an attack.
+    auto:
+        name: Dazzling Disco (CD 20s) (Pre 6s)
+        desc: |
+            Grants [Night Fever] to all ally units for 8 seconds.
+            [Night Fever]: Dodge Rate + 20%, Attack Speed increased by 10 for 3 seconds after dodging, up to 4 stacks.
+    ultimate:
+        name: Clamorous Finale
+        desc: Fires sound waves in the selected directions 3 times, dealing Operand Damage equal to 300% Hashrate to all enemies hit, displacing them in random directions.

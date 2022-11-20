@@ -1,0 +1,17 @@
+model: PastryChefSP.
+name: Choco
+class: Medic
+birthday: --
+manufacturer: Universal Anything Services
+career: Dessert Chef
+voice: Sumire Yatsurugi
+skills:
+    passive:
+        name: Choco Energy
+        desc: Every Normal Attack accumulates 1 point of Chocolate Energy. Consumes all Chocolate Energy every 6 seconds to Heal Choco and all ally units within 1 tile by 20% Hashrate per Chocolate Energy consumed.
+    auto:
+        name: Lucky Gingerbread Man (CD 16s) (Pre 6s)
+        desc: Feeds ginger cookies to the ally unit with the lowest HP percentage. For the next 6 seconds, boost their Physical Damage Reduction by 20%, ATK by 20%, and heals them for 120% Hashrate every second.
+    ultimate:
+        name: Heart Warming Cookie
+        desc: Grants 1 stacks of Gingerbread Cookies Protection to all ally Dolls on the battlefield for 8 seconds. This status boosts their ATK and Hashrate by 30%. When they are targeted by direct damage equal to more than 20% Max HP, the status will be consumed to reduce that direct damage to 1.

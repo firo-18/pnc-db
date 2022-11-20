@@ -1,0 +1,19 @@
+model: UL-VET
+name: Imhotep
+class: Medic
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Veterinarian
+voice: Aimi
+skills:
+    passive:
+        name: Beak of Horus
+        desc: Normal Attacks deal additional Operand Damage equal to 25% Hashrate and Heals the ally unit closest to the target by 200% of the additional damage dealt.
+    auto:
+        name: Hunter's Wings (CD 12s) (Pre 5s)
+        desc: Deals Operand Damage equal to 200% Hashrate that can crit to the target and Heals all ally units within 1 tile of the target and Imhotep herself by 200% Hashrate.
+    ultimate:
+        name: Plume of Slumber
+        desc: |
+            Selects an ally unit to make them fall into a [Deep Sleep], which lasts 8 seconds.
+            [Deep Sleep]: Become immobile and unselectable, while recovering 12.5% Max HP per second. After the end of [Deep Sleep], the selected ally's ATK, Hashrate and Crit Rate will be increased by 30% for 9 seconds.

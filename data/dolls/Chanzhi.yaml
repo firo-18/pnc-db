@@ -1,0 +1,23 @@
+model: CM-EM
+name: Chanzhi
+class: Sniper
+birthday: --
+manufacturer: Cyber Media
+career: Embroidery Artist
+voice: Mariya Ise
+skills:
+    passive:
+        name: Floral Adornment
+        desc: |
+            Normal Attacks inflict [Needlework] on targets.
+
+            [Needlework]: Deals Physical Damage equal to (40%) ATK per stack when detonated.
+    auto:
+        name: Opulent Brocade (CD 12s) (Pre 6s)
+        desc: |
+            Activates [Quilting] for 6 seconds. Detonates all Needlework marks at the end of [Quilting]'s duration.
+            
+            [Quilting]: Normal Attacks split into 3 shots and penetrate targets, dealing Physical Damage equal to (120%) ATK to all enemies in its path. 
+    ultimate:
+        name: Magnificent Embroidery
+        desc: Fires needles in the selected direction, dealing Physical Damage equal to (800%) ATK in total to all enemies in range. Using this Skill while [Quilting] is activated extends the duration of [Quilting] by (4) seconds.

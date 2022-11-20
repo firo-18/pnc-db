@@ -1,0 +1,17 @@
+model: PSRA
+name: Hubble
+class: Sniper
+birthday: --
+manufacturer: 42Lab
+career: Astronomy Researcher
+voice: Rina Hidaka
+skills:
+    passive:
+        name: Empyrean Alignment
+        desc: For every 4 Normal Attacks, Hubble's damage output is increased by 6%, up to 5 stacks.
+    auto:
+        name: Grand Starfall (CD 10s) (Pre 5s)
+        desc: After a short delay, deals Operand Damage equal to 400% Hashrate to the enemy with the greatest ATK, and 30% Of damage dealt as splash damage to all nearby enemies within 2 tiles in True Damage.
+    ultimate:
+        name: Astral Oblivion
+        desc: Summons a black hole in the selected location, dragging all enemies in and dealing Operand Damage equal to 300% Hashrate that can crit, Stunnin them for 3.1 seconds.

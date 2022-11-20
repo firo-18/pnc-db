@@ -1,0 +1,21 @@
+model: Waitress3.0
+name: Ksenia
+class: Specialist
+birthday: --
+manufacturer: Universal Anything Services
+career: Waitress
+voice: Eri Kitamura
+skills:
+    passive:
+        name: Exclusive Service
+        desc: Boost the Hashrate of the ally unit 1 tile ahead by 20% at the beginning of battle.
+    auto:
+        name: Limited Combo Meal (CD 8s) (Pre 3s)
+        desc: |
+            Grants a HP Shield equal to 500% Hashrate and [Satiation] to the ally unit enhanced by her Passive for 6 seconds.
+            [Satiation]: Physical DEF is increased b 35%.
+    ultimate:
+        name: VIP Time
+        desc: |
+            Provides an HP Shield equal to 1,000% Hashrate and [Swift Strike] to an ally unit of choice for 8 seconds.
+            [Swift Strike]: Attack Speed is increased by 40%.

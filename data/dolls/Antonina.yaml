@@ -1,0 +1,23 @@
+name: Antonina
+bio:
+    model: H-01
+    class: Specialist
+    rarity: 2
+    birthday: Unknown
+    release: 2022-11-21T08:00:00Z
+    manufacturer: 42Lab
+    career: Network Security Engineer
+    voice: Juri Nagatsuma
+skills:
+    passive:
+        name: Data Corrosion
+        desc: |
+            Antonina's Normal Attacks inflict 1 stack of [Trojan] to the target. Upon reaching 6 stacks, the enemy is Stunned for (3) seconds, and will have all [Trojan] stacks removed. Defeated enemies will have their [Trojan] stacks transferred to another random enemy.
+
+            [Trojan]: Attack Speed decreases by 10 points.
+    auto:
+        name: Chain Pollution (CD 8s) (Pre 3s)
+        desc: Antonina deals Operand Damage equal to (120%) of Hashrate to the enemy with the highest ATK and [Derivative] Operand Damage equal to (60%) Hashrate to other enemies, applying 1 stack of [Trojan] to all enemies.
+    ultimate:
+        name: Global Intrusion
+        desc: Antonina Stuns all enemies for (7) seconds. After (7) seconds, she inflicts 4 stacks of [Trojan] to all enemies.

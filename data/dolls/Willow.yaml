@@ -1,0 +1,17 @@
+model: CM-JRNLIST
+name: Willow
+class: Specialist
+birthday: --
+manufacturer: Cyber Media
+career: Journalist
+voice: Eri Kitamura
+skills:
+    passive:
+        name: ""
+        desc: ""
+    auto:
+        name: ""
+        desc: ""
+    ultimate:
+        name: ""
+        desc: ""

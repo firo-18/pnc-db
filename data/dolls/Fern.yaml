@@ -1,0 +1,19 @@
+model: AA2
+name: Fern
+class: Warrior
+birthday: --
+manufacturer: 42Lab
+career: Archaeology Researcher
+voice: Naomi Ohzora
+skills:
+    passive:
+        name: Dragonbone Awakening
+        desc: >
+            Uses 3 seconds to summon a Fossil Dragon at the start of battle. The Fossil Dragon is a Guard class unit with a 2 tile range. The Fossil Dragon's HP, ATK, and Physical/Operand DEF are equal to 1000%, 60%, and 50% of Fern's Hashrate, respectively, and its Attack Speed is 30 points higher than Fern's.
+            The Fossil Dragon will be summoned again in 15 seconds after its defeat in battle.
+    auto:
+        name: Solnhofen's Hunt (CD 10s) (Pre 4s)
+        desc: Summons a Fossil Dragon to throw the current target into an empty tile near the enemy farthest away. Targets with Super Armor cannot be thrown. When the target lands, deal Operand Damage equal to 100% Hashrate to the target and nearby enemy units within 1 tile, stunning them for 2 seconds.
+    ultimate:
+        name: Ancestral Shriek
+        desc: Summons a giant Fossil Dragon, knocking back all enemies on the battlefield to the far right. Deals Operand Damage equal to 140% Hashrate to affected enemies and Stuns them for 4 seconds.

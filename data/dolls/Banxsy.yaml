@@ -1,0 +1,28 @@
+name: Banxsy
+bio:
+    model: ARTIST3.0
+    class: Specialist
+    rarity: 3
+    birthday: --
+    release: 2022-11-21T08:00:00Z
+    manufacturer: Cyber Media
+    career: Street Artist
+    voice: Juri Nagatsuma
+skills:
+    passive:
+        name: Ways of the Streets
+        desc: Banxsy's Normal Attacks inflict [Graffiti Mark] on targets, reducing their Hit Rate and Dodge Rate by (25%). Does not stack.
+    auto:
+        name: Ungoverned Skater (CD 10s) (Pre 5s)
+        desc: >
+            Searches for an unmarked enemy unit and approaches them, turning the tile beneath them and the immediate neighboring tiles into [Stained Tiles] for 5 seconds, dealing Physical Damage equal to (400%) ATK in that area.
+            Inflicts [Graffiti Mark] on enemies that pass over or stay on the [Stained Tiles] during this time. After the target seeking ends, initiates the [Carnival], lasting for 2 seconds.
+
+
+            [Carnival]: Untargetable, gains 50 Attack Speed, and pauses Skill Gauge.
+    ultimate:
+        name: Subverting Artistry
+        desc: |
+            Detonates all [Graffiti Marks] on the battle field, dealing Physical Damage equal to (200%) ATK, and inflicting [Tagged] lasting for 7 seconds.
+            
+            [Tagged]: Reduces Hit Rate and Dodge Rate by 40%.

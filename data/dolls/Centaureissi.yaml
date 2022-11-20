@@ -1,0 +1,19 @@
+model: Butler36
+name: Centaureissi
+class: Warrior
+birthday: --
+manufacturer: Universal Anything Services
+career: Maid
+voice: Ami Koshimizu
+skills:
+    passive:
+        name: Maid's Discipline (CD 8s)
+        desc: Normal Attacks deal Physical Damage equal to 80% ATK to the target and all enemies within 1 tile, Stunning them for 2 seconds. This effect enters a cooldown after being triggered.
+    auto:
+        name: Final Castigation (CD 11s) (Pre 5.4s)
+        desc: >
+            Controls the target for 3.5 seconds and launches 6 consecutive strikes, each strike dealing Physical Damage equal to 80% ATK.
+            The final strike knocks them back to the other side of the battlefield, dealing Physical Damage equal to 80% ATK to the target and all surrounding enemies within 1 tile, stunnings the target for 2 seconds.
+    ultimate:
+        name: Perfect Maid
+        desc: Throws 20 knives in the selected direction, each knife dealing Physical Damage equal to 100% to the first enemy it hits.

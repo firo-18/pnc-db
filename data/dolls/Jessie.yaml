@@ -1,0 +1,17 @@
+model: PHK
+name: Jessie
+class: Medic
+birthday: --
+manufacturer: Universal Anything Services
+career: Domestic Service Specialist
+voice: Makoto Koichi
+skills:
+    passive:
+        name: Cleaning Service
+        desc: When Jessie is on the battlefield, all ally units within 1 tile around have their Debuff RES increased by 200, and Healing Received increased by 25%.
+    auto:
+        name: Exhaustive Disinfection (CD 10s) (Pre 4s)
+        desc: Grants [Antibacterial Layer] to all ally units that lasts for 3 seconds, immunizing them against debuffs. [Antibacterial Layer] will resist one more debuff before expiring. [Antibacterial Layer] removes any pre-existing debuffs from ally units and Heals them for 120% Hashrate. [Antibacterial Layer) Heals ally units for 8% of their HP lost after 3 seconds.
+    ultimate:
+        name: Weekend Clean-Up
+        desc: Removes all debuffs on ally units and Heals them for 460% Hashrate.

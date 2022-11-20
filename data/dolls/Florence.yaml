@@ -1,0 +1,23 @@
+model: UL-NURSE
+name: Florence
+class: Medic
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Nurse
+voice: M.A.O
+skills:
+    passive:
+        name: Angelic Allure
+        desc: |
+            Charms the current target for 4 seconds after every 5 Normal Attacks. Boosts the target's Attack Speed by 50% during [Charm].
+            [Charm]: Attacks ally units, and is silenced.
+    auto:
+        name: Special Care (CD 14s) (Pre 7s)
+        desc: |
+            Heals the ally unit with the lowest HP percentage for 500% Hashrate. For every 1% HP the target has lost, Healing is increased by 1%. Grants 5 stacks of [Nursing] to the target.
+            [Nursing]: Reduce incoming damage by 16% per stack. Lose 1 stack when taking damage.
+    ultimate:
+        name: Forbidden Concoction
+        desc: |
+            Selects 1 ally unit to grant them 7 seconds of [Trepidation] at the cost of 60% of their current HP.
+            [Trepidation]: ATK and Hashrate increased by 100%, Life Steal effect increased by 10%.

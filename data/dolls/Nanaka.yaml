@@ -1,0 +1,17 @@
+model: CM-Idol
+name: Nanaka
+class: Medic
+birthday: --
+manufacturer: Cyber Media
+career: Idol
+voice: Yuko Ono
+skills:
+    passive:
+        name: Stardust - Rhythmic Chroma
+        desc: Boosts the Hashrate and ATK of nearby ally units within 2 tiles under the influence of [Rhythmic Aura] by 20%.
+    auto:
+        name: Starry Revue (CD 12s) (Pre 6s)
+        desc: Activates [Starry Revue] for 5 seconds. During this time, the [Rhythmic Aura] has its range expanded by 1 tile, and Heals all ally units under its influence by 60% Hashrate per second. At the end of [Starry Revue], Nanaka Heals all allies inside the aura for 300% Hashrate.
+    ultimate:
+        name: Dancing Starlight
+        desc: Select a location to create a field where all ally units within cannot die for 5 seconds. At the end of this Skill, Heal all ally units in the area for 600% of Nanaka's Hashrate.

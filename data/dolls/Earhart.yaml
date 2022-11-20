@@ -1,0 +1,19 @@
+model: E-Pilot
+name: Earhart
+class: Sniper
+birthday: --
+manufacturer: Svarog Heavy Industries
+career: Pilot
+voice: Rina Sato
+skills:
+    passive:
+        name: Avenger's Roar
+        desc: After landing a Critical Hit with Normal Attacks, boosts Attack Speed by 50 for 3 seconds, accelerating Auto Skill charge by 3 seconds.
+    auto:
+        name: Death's Dive (CD 15s) (Pre 4s)
+        desc: >
+            Earhart boards her attack plane to perform attacks for 16 seconds. Normal Attacks will inflict extra Operand Damage equal to 120% Hashrate that can deal critical damage. During this Skill, Earhart gains Super Armor.
+            She deals Operand Damage equal to 200% Hashrate to the current target and its surrounding enemy units within 1 tile when boarding the plane.
+    ultimate:
+        name: Neptune's Onslaught
+        desc: Deals Operand Damage equal to 460% Hashrate that can crit to all enemies in a selected area and the surrounding enemies within 1 tile. Crit Rate increases by 20% for every enemy unit hit, up to 3 stacks, lasting for 7 seconds.

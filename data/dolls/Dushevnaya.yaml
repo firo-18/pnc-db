@@ -1,0 +1,25 @@
+model: CaregiverT55
+name: Dushevnaya
+class: Specialist
+birthday: --
+manufacturer: Universal Anything Services
+career: Child Caregiver
+voice: Eri Ozeki
+skills:
+    passive:
+        name: Innocuous Melody
+        desc: |
+            Normal Attacks no longer deal damage, but now affects all nearby units within 2 tiles: Grants [Inspiration] to all other ally units; deals both Operand Damage equal to 30% Hashrate and applies the [Cacophony] status on enemy units, with both effects lasting for 3 seconds.
+
+            [Inspiration]: Operand Damage increased by (15%), Physical/Operand DEF reduced by (15%).
+            [Cacophony]: ATK, Hashrate, and Physical/Operand DEF reduced by (15%), considered a debuff.
+    auto:
+        name: Carefree Cavalcade (CD 4s) (Pre 2s)
+        desc: After Skill activation, inflict Passive Skill's effect on all units for (8) seconds.
+    ultimate:
+        name: Immaculate Gift
+        desc: |
+            Grants [Sublimation] to a selected ally unit for 10 seconds, or inflicts [Weak-Minded] on a selected enemy unit for 6 seconds.
+
+            [Sublimation]: Hashrate increased by (50%).
+            [Weak-Minded]: Operand DEF reduced by (40%).

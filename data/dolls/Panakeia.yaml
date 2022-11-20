@@ -1,0 +1,19 @@
+model: UL-AP
+name: Panakeia
+class: Medic
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Pharmacist
+voice: Kotomi Aihara
+skills:
+    passive:
+        name: Volatile Dosage
+        desc: |
+            Inflicts 8 seconds of [Tablet] on enemies upon dealing damage, up to 4 stacks. Panakeia has a 30% chance to heal nearby ally units within 1 tile by 120% Hashrate when she attacks enemies with [Tablet].
+            [Tablet]: Physical Damage reduced by 2%. This effect doubles after boosting. Considered a debuff.
+    auto:
+        name: Dubious Treatment (CD 9s) (Pre 3.4s)
+        desc: Performs treatment on both ally and enemy units 7 times. The treatment heals the ally unit with the lowest HP percentage by 80% Hashrate, and deals Operand Damage equal to 30% Hashrate to a random enemy unit.
+    ultimate:
+        name: Medicinal Mania
+        desc: Enter Research mode for 8 seconds. [Dosage] is upgraded into [Tablet II] in this mode, with the Skill's healing chance increased to 100%. Healing Effect increased by 100%, and 3 more instances will be added to Dubious Treatment.

@@ -1,0 +1,17 @@
+model: OSRA
+name: Fresnel
+class: Sniper
+birthday: --
+manufacturer: 42Lab
+career: Optics Researcher
+voice: Risa Tsumugi
+skills:
+    passive:
+        name: Mirror Warp
+        desc: When Fresnel takes damage, she reduces the damage taken by 50% and removes all debuffs. She enters Stealth for 2 seconds. If melee damage was taken, she randomly warps 1 tile away from her attacker.
+    auto:
+        name: Pulse Laser (CD 8s) (Pre 3s)
+        desc: Fresnel fires a ricocheting laser beam at her current target, dealing Operand Damage equal to 120% Hashrate to all enemies in the way. The laser beam ricochets off the edge of the map, dealing damage again on its way back. The laser beam inflicts 1 stack of Burn to target upon dealin damage.
+    ultimate:
+        name: Liminal Glory
+        desc: Fresnel focuses a ray of light, dealing Operand Damage equal to 140% of her Hashrate per second to all enemies in a selected area. Each stack of Burn causes targets to receive additional True Damage equal to 40% Hashrate for 3 seconds.

@@ -1,0 +1,17 @@
+model: ""
+name: Sueyoi
+class: ""
+birthday: ""
+manufacturer: ""
+career: ""
+voice: ""
+skills:
+    passive:
+        name: ""
+        desc: ""
+    auto:
+        name: ""
+        desc: ""
+    ultimate:
+        name: ""
+        desc: ""

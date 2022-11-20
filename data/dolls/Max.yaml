@@ -1,0 +1,19 @@
+model: EMR
+name: Max
+class: Sniper
+birthday: --
+manufacturer: 42Lab
+career: Electromagnetism Researcher
+voice: Hiyori Nitta
+skills:
+    passive:
+        name: Magnetized Strike
+        desc: |
+            Max's Normal Attacks inflict [Electrocute] on the current target and 1 other enemy within 1 tile.
+            [Electrocute]: Deals True Damage equal to 50% Hashrate after 3 seconds. Is considered a debuff.
+    auto:
+        name: Super Piezopolymer (CD 9s) (Pre 3.4s)
+        desc: Max summons a ball of lightning that moves towards the area most populated with enemies that lasts 3 seconds. The lightning deals Operand Damage equal to 60% Hashrate per second to enemies within 1 tile every 0.5 seconds. The affected targets have a 30% chance to be Stunned for 1 seconds.
+    ultimate:
+        name: Polarized Electric Field
+        desc: Release an Electric Field in the selected direction that Stuns enemies for 0.2 seconds, and inflicts True Damage equal to 220% Hashrate on all enemies along the way every second over the following 2 seconds.

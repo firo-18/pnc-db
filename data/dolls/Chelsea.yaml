@@ -1,0 +1,17 @@
+model: FF-ALPHA
+name: Chelsea
+class: Warrior
+birthday: --
+manufacturer: Svarog Heavy Industries
+career: Firefighter
+voice: Risa Tsumugi
+skills:
+    passive:
+        name: High Pressure Cutter
+        desc: Chelsea's Normal Attacks deal extra Physical Damage equal to 200% ATK to enemies behind her target.
+    auto:
+        name: Super Hydraulic Pump (CD 12s) (Pre 4s)
+        desc: Chelsea deals Physical Damage equal to 360% of her ATK to all surrounding enemies within 2 tiles, and Knock Back all surrounding enemies within 1 tile. Targets that cannot be knocked back will be Stunned instead for 3 seconds.
+    ultimate:
+        name: Supercooled Nitrogen
+        desc: Chelsea unleashes a wave of liquid nitrogen, dealing Physical Damage equal to 400% of her ATK that can deal critical damage to all enemy units and inflicts 1 stack(s) of Frozen on them.

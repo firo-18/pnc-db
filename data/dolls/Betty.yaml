@@ -1,0 +1,17 @@
+model: Security2.0
+name: Betty
+class: Warrior
+birthday: --
+manufacturer: Universal Anything Services
+career: Home Security Guard
+voice: Asuka Itou
+skills:
+    passive:
+        name: Betty's Fluffy Punch
+        desc: Normal Attacks deal additional Physical Damage equal to 60% - 80% ATK that can crit.
+    auto:
+        name: Kitty Rampage (CD 15s) (Pre 6.6s)
+        desc: Betty gains 8 seconds of Super Armor and boosts her Attack Speed by 100 points. The Life Steal effect is enhanced by 20%. During this Skill, every 1% of HP lost boosts the Life Steal effect by 0.3%.
+    ultimate:
+        name: Chatte Fatale
+        desc: Claws in the selected direction, dealing Physical Damage equal to 720% ATK to all enemies in her path and inflicting 3 stacks of Bleed on them for 5 seconds.

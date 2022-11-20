@@ -1,0 +1,17 @@
+model: MAIA
+name: Mai
+class: Specialist
+birthday: --
+manufacturer: 42Lab
+career: Meteorological Researcher
+voice: Saki Minami
+skills:
+    passive:
+        name: Raging Turbulence
+        desc: Boosts the Attack Speed of ally units directly 1 tile ahead and behind Mai by 20% at the start of battle.
+    auto:
+        name: Sweeping Storm (CD 15s) (Pre 6.6s)
+        desc: Creates a tornado that lasts 5 seconds in an area packed with enemies. The tornado deals Operand Damage equal to 50% Hashrate per second to nearby enemies within 1 tile, and inflicts 5 seconds of Blindness on all enemy units inside.
+    ultimate:
+        name: Cascading Windbloom
+        desc: Channels for 4 second(s), summoning a storm on the selected 7 tiles. While channeling, deal Operand Damage equal to 35% Hashrate every 0.4 seconds, inflicting Blind, decreasing their Skill charge by 2 seconds.

@@ -1,0 +1,19 @@
+model: Forensic3.6
+name: Rise
+class: Specialist
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Forensic Assistant
+voice: Yukana
+skills:
+    passive:
+        name: Outsider's Conford
+        desc: When an enemy is defeated in battle, the unit that dealt the final blow will be enhanced with 15% of the defeated enemy's ATK and Hashrate until the end of battle. Defeating another enemy will reset this effect.
+    auto:
+        name: Hawkins Archive (CD 12s) (Pre 5s)
+        desc: >
+            Inflicts stacks of [Exclusive Files] on enemies equal to the descending order of their remaining HP percentage. The enemy with the lowest HP will receive 5 stacks, and each enemy in the order will receive 1 less stack.
+            Each stack of [Exclusive Files] increases all damage taken 10% for 6 seconds.
+    ultimate:
+        name: Befogged Stalking
+        desc: Focus Fire on a selected target for 8 seconds. If the target falls, enhance all ally units with 15% of the target's ATK and Hashrate till the end of battle.

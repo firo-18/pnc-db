@@ -1,0 +1,17 @@
+model: UL-OS
+name: Bonee
+class: Guard
+birthday: --
+manufacturer: Ultimate Life Holdings
+career: Orthopedic Surgeon
+voice: Yuko Ono
+skills:
+    passive:
+        name: Bulwark of Pale Bone
+        desc: Gains a HP Shield equal to 500% Hashrate at the start of battle. When healed, gains an extra HP Shield equal to 20% of healing received.
+    auto:
+        name: Implanted Armor (CD 12s) (Pre 5s)
+        desc: Provides a HP Shield equal to 300% Hashrate to the ally unit with the lowest HP percentage, boosting their Physical/Operand DEF by 200 and Healing Received by 20% over the next 5 seconds. The effect of this Skill is doubled when used on Bonee herself. 
+    ultimate:
+        name: Medullary Transfusion
+        desc: Consumes her HP Shield to grant all other ally units a Shield equal to 20% Bone's Max HP + 40% HP Unlock Skill Shield value.

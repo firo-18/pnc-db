@@ -1,0 +1,17 @@
+model: AS-B
+name: Gin
+class: Medic
+birthday: --
+manufacturer: Universal Anything Services
+career: Bartender
+voice: Wataru Katou
+skills:
+    passive:
+        name: Cloudtop Mix
+        desc: Gin's Normal Attacks will Heal the ally unit with the lowest HP percentage by 100% of his Hashrate, boosting their DEF by 5% for 3 seconds, max 3 stacks.
+    auto:
+        name: Inebriated Gala (CD 12s) (Pre 6s)
+        desc: Increase Crit Rate by 30%, targeting all allies with Normal Attacks for 8 seconds.
+    ultimate:
+        name: Amber Dream
+        desc: Gin mixes up a special drink, Healing all allies for 600% Hashrate. This is 25% more effective on units with a DEF Boost.

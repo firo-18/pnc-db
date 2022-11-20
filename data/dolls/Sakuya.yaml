@@ -1,0 +1,19 @@
+model: LG-II
+name: Sakuya
+class: Specialist
+birthday: --
+manufacturer: Universal Anything Services
+career: Horticulturist
+voice: Yu Serizawa
+skills:
+    passive:
+        name: Wilting Flowers
+        desc: Normal Attacks will mark the target. When the marked target takes damage, there is a 20% chance to inflict 1 stack of Bleed on them for 5 seconds. The chance of inflicting Bleed is doubled when target takes damage from Sakuya.
+    auto:
+        name: Remnant Leaves (CD 10s) (Pre 4s)
+        desc: >
+            Deals Physical Damage equal to 180% ATK and inflicts 1 stacks of Bleed for 5 seconds on nearby enemies within 2 tiles. Records enemy units with full stacks of Bleed and reactivates this Skill again when there is a new target recorded.
+            If multiple targets are recorded at the same time, reactivate this Skill only once.
+    ultimate:
+        name: Thousand Snowy Leaves
+        desc: Deals Physical Damage equal to 600% ATK to all enemies in a selected direction, randomly inflicting 1-9 stacks of Bleed on them for 5 seconds.
