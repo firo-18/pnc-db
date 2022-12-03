@@ -11,10 +11,17 @@ bio:
 skills:
     passive:
         name: Unyielding Will
-        desc: Croque Heals HP equal to 10% of her Hashrate per second. For every enemy Taunted, her HP Recovery is increased by 50%.
+        desc: Croque Heals HP equal to (10%) of her Hashrate per second. For every enemy Taunted, her HP Recovery is increased by 50%.
     auto:
         name: Aegis Shield (CD 10s) (Pre 1s)
-        desc: 'Standard Cast: Enemies within 2 tiles are Taunted and Super Armor is gained, both lasting for 4 seconds or expires when the Shield breaks. This Skill is enhanced on its first cast: Croque gains Super Armor and a Shield equal to 1,000% of Hashrate. Taunt all enemies on the field. The Taunt and Super Armor lasts for 6 seconds, or expires when the Shield breaks.'
+        desc: >
+            Gains Super Armor and a Shield of (500%) Hashrate, and Taunts all surrounding enemies within 2 tiles.
+            Taunt and Super Amor lasts 4 seconds or expires when the Shield breaks. The effect of this skill is enhanced on first release: 
+            Gain Super Armor and a Shield of (1,000%) Hashrate, and Taunts all enemies. Taunts and Super Armor lasts 6 seconds or expires when Shield breaks.
     ultimate:
         name: Machine God's Call
-        desc: Croque unleashes a storm of bullets, dealing Operand Damage equal to 200% of Hashrate to all enemy units across 5 consecutive attacks. Each attack can individually crit. Inflict 5 stacks of Vulnerability on all targets, lasting for 6 seconds.
+        desc: >
+            Croque unleashes a storm of bullets, dealing Operand Damage equal to (200%) of Hashrate to all enemy units across 5 consecutive attacks.
+            Each attack can individually crit. Inflict (5) stacks of Vulnerability on all targets, lasting for 6 seconds.
+analysis:
+    rating: Highly Recommended

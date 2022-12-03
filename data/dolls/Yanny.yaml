@@ -11,10 +11,12 @@ bio:
 skills:
     passive:
         name: Vicious Waves
-        desc: Boosts Physical DEF by 20% Hashrate. When Healed, boosts Physical DEF by 10% for 5 seconds, up to 6 stacks.
+        desc: Boosts Physical DEF by (25%) Hashrate. When Healed, boosts Physical DEF by (10%) for 5 seconds, up to 6 stacks.
     auto:
         name: Anchor of Innsmouth (CD 8s)
-        desc: At the beginning of the battle, pulls the farthest enemy unit up close with a hook and applies Focus Fire on that enemy unit for 8 seconds. This Skill is only activated once per battle.
+        desc: At the beginning of the battle, pulls the farthest enemy unit up close with a hook and applies Focus Fire on that enemy unit for (8) seconds. This Skill is only activated once per battle.
     ultimate:
         name: Ephemeral Prison
-        desc: Creates a Water Jail to Confine all enemies for 10 seconds. Enemies have a 30% chance to break out early when taking damage.
+        desc: Creates a Water Jail to Confine all enemies for (10) seconds. Enemies have a (30%) chance to break out early when taking damage.
+analysis:
+    rating: Niche/Not Recommended

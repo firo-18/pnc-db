@@ -11,10 +11,12 @@ bio:
 skills:
     passive:
         name: Game of Life
-        desc: When an ally unit takes direct lethal damage, they retain 1 HP instead of dying, and are Healed by 540% of this unit's Hashrate. This can only trigger once per battle.
+        desc: When an ally unit takes direct lethal damage, they retain 1 HP instead of dying, and are Healed by (540%) of this unit's Hashrate. This can only trigger once per battle.
     auto:
-        name: Recursive Calculation (CD 12s) (Pre 4s)
-        desc: Fires a Healing wave at the ally unit with the lowest HP percentage, which Heals them by 420% of this unit's Hashrate. The Healing wave bounces between ally units 3 times, with the Healing Effect reducing by 50% per bounce.
+        name: Recursive Calculation (CD 12s) (Pre 8s)
+        desc: Fires a Healing wave at the ally unit with the lowest HP percentage, which Heals them by (420%) of this unit's Hashrate. The Healing wave bounces between ally units (3) times, with the Healing Effect reducing by 50% per bounce.
     ultimate:
         name: Etheric Field
-        desc: Heals 1 selected ally unit by 60% of their Max HP, and then Heal the target further by 450% of this unit's Hashrate per second, over 4 seconds.
+        desc: Heals 1 selected ally unit by (60%) of their Max HP, and then Heal the target further by (450%) of this unit's Hashrate per second, over 4 seconds.
+analysis:
+    rating: Highly Recommended

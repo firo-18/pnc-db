@@ -5,16 +5,18 @@ bio:
     model: RM&IA
     manufacturer: Universal Anything Services
     career: Accountant
-    birthday: --
+    birthday: 9-Dec
     release: 2022-11-21T11:00:00Z
     voice: Hiyori Nitta
 skills:
     passive:
         name: Fuller's Slide Rule
-        desc: Lam's Attack Speed cannot be improved beyond 100 points. Every 5 point(s) of excess Attack Speed bonus is to be converted into 15% Crit Rate.
+        desc: Lam's Attack Speed is fixed at 100 points. Every 5 points of excess Attack Speed is converted into (15%) Crit Rate.
     auto:
         name: Focused Disintegrator (CD 18s) (Pre 7s)
-        desc: Deals Physical Damage equal to 280% ATK to the enemy with the greatest HP percentage. For every 1% HP the target has remaining, the damage dealt is increased by 1%. This Skill can deal critical damage.
+        desc: Deals Physical Damage equal to (280%) ATK to the enemy with the greatest HP percentage. For every 1% HP the target has remaining, the damage dealt is increased by 1%. This Skill can deal critical damage.
     ultimate:
         name: Vector Bayonet
-        desc: Fires the Vector Cannon in the selected direction, dealing Physical Damage equal to 520% ATK to all enemies on its path. This Skill can deal critical damage.
+        desc: Fires the Vector Cannon in the selected direction, dealing Physical Damage equal to (520%) ATK to all enemies on its path. This Skill can deal critical damage.
+analysis:
+    rating: Highly Recommended

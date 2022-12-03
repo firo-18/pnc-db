@@ -11,10 +11,19 @@ bio:
 skills:
     passive:
         name: Mending of the Verdant
-        desc: After Souchun deals 3 Normal Attacks, boosts her Max HP by 100% of her Hashrate and recovers an equivalent amount of HP. This effect can be triggered up to 10 times. Every 30 points of extra HP gained enhances Souchun's Operand DEF by 1 points.
+        desc: >
+            After Souchun deals 3 Normal Attacks, boosts her Max HP by (100%) of her Hashrate and recovers an equivalent amount of HP.
+            This effect can be triggered up to 10 times. Every 30 points of extra HP gained enhances Souchun's Operand DEF by 1 point.
     auto:
         name: Malachite Constraint (CD 9s) (Pre 3.4s)
-        desc: Souchun summons vines to bind enemies within 1 tile, disarming them for 3 seconds. The bound units take Operand Damage equal to 30% Hashrate every 0.6 seconds. Souchun then heals herself by 0.5% of her Max HP per bound enemies.
+        desc: >
+            Souchun summons vines to bind enemies within 1 tile, disarming them for 3 seconds.
+            The bound units take Operand Damage equal to (30%) Hashrate every 0.6 seconds.
+            Souchun then heals herself by 0.5% of her Max HP per bound enemies.
     ultimate:
         name: Bramble Prison
-        desc: Souchun knocks all enemies in a selected area airborne, dealing Operand Damage equal to 100% Hashrate that can deal critical damage. Then, create a trap of thorns that immobilizes enemies passing by for 8 seconds.
+        desc: >
+            Souchun knocks all enemies in a selected area airborne, dealing Operand Damage equal to 100% Hashrate that can deal critical damage.
+            Then, create a trap of thorns that immobilizes enemies passing by for (8) seconds.
+analysis:
+    rating: Not Recommended

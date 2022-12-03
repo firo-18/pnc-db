@@ -20,3 +20,5 @@ skills:
     ultimate:
         name: Medullary Transfusion
         desc: Consumes her HP Shield to grant all other ally units a Shield equal to (20%) Bone's Max HP + (40%) HP Unlock Skill Shield value.
+analysis:
+    rating: Optional

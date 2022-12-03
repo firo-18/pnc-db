@@ -5,7 +5,7 @@ bio:
     model: CRAR
     manufacturer: Svarog Heavy Industries
     career: Ruins Investigator
-    birthday: --
+    birthday: 29-Mar
     release: 2022-11-21T11:00:00Z
     voice: Sayaka Senbongi
 skills:
@@ -13,10 +13,16 @@ skills:
         name: Graphite Fusion
         desc: |
             When HP falls below 25%, activates [Graphite Force Field].
-            [Graphite Force Field]: Reduces damage taken by 60% Hashrate, minimum 10 points.
+
+            [Graphite Force Field]: Reduces damage taken by (60%) Hashrate, minimum 10 points.
     auto:
         name: Isotope Absorption (CD 12s) (Pre 5s)
-        desc: Obtains a HP Shield equal to 400% Hashrate. For every 1% HP lost, the HP Shield is 1.5% more effective. 
+        desc: Obtains a HP Shield equal to (400%) Hashrate. For every 1% HP lost, the HP Shield is 1.5% more effective. 
     ultimate:
         name: Ruin's Transposition
-        desc: Zion gains Super Armor and HP Shield equivalent to 30% of Max HP, creating an alkene force field around self in a 2 tile range for 6 second(s). Non-Derivative Damage received by all other ally units within the field is transferred to Zion instead. When the Skill ends, deal True Damage to all enemies on the field equivalent to 30% of damage absorbed.
+        desc: >
+            Zion gains Super Armor and HP Shield equivalent to 30% of Max HP, creating an alkene force field around self in a 2 tile range for 6 seconds.
+            Non-Derivative Damage received by all other ally units within the field is transferred to Zion instead.
+            When the Skill ends, deal True Damage to all enemies on the field equivalent to (30%) of damage absorbed.
+analysis:
+    rating: Not Recommended

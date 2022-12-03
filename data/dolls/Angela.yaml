@@ -5,13 +5,13 @@ bio:
     model: C2E2
     manufacturer: Universal Anything Services
     career: Child Custodian
-    birthday: --
+    birthday: 16-Feb
     release: 2022-11-21T11:00:00Z
     voice: Saki Minami
 skills:
     passive:
         name: Fable of Light
-        desc: When an enemy first activates a Skill, permanently reduces their Skill Rapidity by (25%). This effect does not stack.
+        desc: When an enemy first activates a Skill, permanently reduces their Skill Haste by (25%). This effect does not stack.
     auto:
         name: Witch's Eventide (CD 14s) (Pre 5s)
         desc: Accelerate the Skill recharge of other ally units by (3) seconds, and sets back the Skill charge of enemy units by (3) seconds.
@@ -21,3 +21,5 @@ skills:
             Expels all enemy units except the selected target for (7) seconds, and inflicts 1 stacks of [Dragonbreath] to the target.
 
             [Dragonbreath]: Operand Damage taken increased by 30% for 3 seconds, considered a debuff.
+analysis:
+    rating: Highly Recommended

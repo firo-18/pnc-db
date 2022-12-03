@@ -11,12 +11,18 @@ bio:
 skills:
     passive:
         name: Advancing Tactics (CD 5s)
-        desc: Evelyn's Damage Reduction +10%. Has a 50% chance to Knock Back the attacker 1 tile and Stun them for 0.8 seconds when targeted by melee attacks. This ability enters cooldown after triggering. When the enemy cannot be knocked back, Stuns the enemy for 1.8 seconds. Recovers HP equal to 20% of Hashrate upon stunning an enemy. This Healing Effect is not affected by cooldown.
+        desc: >
+            Evelyn's Damage Reduction increases by (25%). Evelyn has a 50% chance to Knock Back the attacker 1 tile and Stun them for (2) seconds when targeted by melee attacks.
+            This ability enters cooldown after triggering. When the enemy cannot be knocked back, Stuns the enemy for (3) seconds.
+            Recovers HP equal to (40%) of Hashrate upon stunning an enemy. This Healing Effect is not affected by cooldown.
     auto:
         name: Anti-Riot Measures (CD 10s) (Pre 5s)
-        desc: Fires a riot bullet into an area densely packed with enemies, dealing Operand Damage equal to 25% Hashrate to all enemies in the selected area, while inflicting Stun on them for 0.5 seconds.
+        desc: Throws a riot grenade into an area densely packed with enemies, dealing Operand Damage equal to (50%) Hashrate to all enemies in the selected area, while inflicting Stun on them for 0.5 seconds.
     ultimate:
         name: Steelguard Array
         desc: |
             Evelyn calls for all ally units to gather up and sets up a defensive Shield in a selected area, granting [Safeguard] to all ally units within for 5 seconds.
-            [Safeguard]: Damage Reduction increased by 40%, considered a buff.
+
+            [Safeguard]: Damage Reduction increased by (60%), considered a buff.
+analysis:
+    rating: Recommended
