@@ -20,3 +20,5 @@ skills:
         desc: Heals 1 selected ally unit by (60%) of their Max HP, and then Heal the target further by (450%) of this unit's Hashrate per second, over 4 seconds.
 analysis:
     rating: Highly Recommended
+links:
+    wiki: https://nalu.wiki/neuralcloud/c/dolls/persicaria-115
